@@ -1,6 +1,8 @@
 # mips-verilog
 This is a simplified MIPS processor that I built with Arthur Kam for a course at the University of Waterloo.
 
+Please note: all code in this repository was written by either Stuart Alldritt or Arthur Kam. No example code or starter files were used during the course. All test programs and sample test cases provided during the course have been removed from this repository.
+
 # Processor
 The processor is a fully-pipelined MIPS processor. It has no branch prediction. It has the standard MIPS bypass paths (M/X, W/M, W/X). Bubbles are generated on when a data element is used in the instruction immediately following a LW/LB instruction. 
 
