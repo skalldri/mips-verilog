@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dG:/Documents/ece-429/memory
+vdecode
+Z0 !s110 1436131604
+!i10b 1
+!s100 jBhI5gW>466]L^UX92M7B0
+IniQk57Rd[@CCSB3K86Fbo2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Arthur/Documents/Waterloo/2015-05-08/ECE429/local
+w1436065786
+8C:/Users/Arthur/Documents/Waterloo/2015-05-08/ECE429/local/decode.v
+FC:/Users/Arthur/Documents/Waterloo/2015-05-08/ECE429/local/decode.v
+L0 2
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1436131604.000000
+!s107 C:/Users/Arthur/Documents/Waterloo/2015-05-08/ECE429/local/decode.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Arthur/Documents/Waterloo/2015-05-08/ECE429/local/decode.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vfetch
+R0
+!i10b 1
+!s100 [?mFg]a`168WNmWiK11X_0
+IJZa8?YGHLf<lM5oESkFe`0
+R1
+R2
+w1436131582
+8C:\Users\Arthur\Documents\Waterloo\2015-05-08\ECE429\local\fetch.v
+FC:\Users\Arthur\Documents\Waterloo\2015-05-08\ECE429\local\fetch.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\Arthur\Documents\Waterloo\2015-05-08\ECE429\local\fetch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Arthur\Documents\Waterloo\2015-05-08\ECE429\local\fetch.v|
+!s101 -O0
+!i113 1
+R5
+vmips_memory2
+R0
+!i10b 1
+!s100 STj[B[ImiGm3LTLQFXz=P2
+I^`UUTRd65k_d>ll>V45UQ2
+R1
+R2
+w1436131438
+8C:\Users\Arthur\Documents\Waterloo\2015-05-08\ECE429\local\memory2.v
+FC:\Users\Arthur\Documents\Waterloo\2015-05-08\ECE429\local\memory2.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\Arthur\Documents\Waterloo\2015-05-08\ECE429\local\memory2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Arthur\Documents\Waterloo\2015-05-08\ECE429\local\memory2.v|
+!s101 -O0
+!i113 1
+R5
+vtestbench
+R0
+!i10b 1
+!s100 <Vjc?<K^SJ2Ul_9gkI@mD2
+IDOQIF3=MYaMEHWJMPfh6S1
+R1
+R2
+w1436131537
+8C:\Users\Arthur\Documents\Waterloo\2015-05-08\ECE429\local\testbench.v
+FC:\Users\Arthur\Documents\Waterloo\2015-05-08\ECE429\local\testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\Arthur\Documents\Waterloo\2015-05-08\ECE429\local\testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Arthur\Documents\Waterloo\2015-05-08\ECE429\local\testbench.v|
+!s101 -O0
+!i113 1
+R5

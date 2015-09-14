@@ -1,0 +1,157 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vmemory
+!s110 1431568999
+!i10b 1
+!s100 J>B1Hm]1MKj<j:`W<ha_X1
+I`Ojid^gORP6cB9LE4GkM>2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dG:/Documents/ece-429/memory
+w1431568994
+8G:/Documents/ece-429/memory/memory.v
+FG:/Documents/ece-429/memory/memory.v
+L0 5
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1431568999.000000
+!s107 G:/Documents/ece-429/memory/memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/Documents/ece-429/memory/memory.v|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vmips_memory
+Z4 !s110 1431982687
+!i10b 1
+!s100 K28z03`ebIOdK@5Kc5<^o1
+IC9^cUAdD`<kE1L>ADE;[o2
+R0
+R1
+w1431887866
+8G:\Documents\ece-429\memory\memory.v
+FG:\Documents\ece-429\memory\memory.v
+L0 5
+R2
+r1
+!s85 0
+31
+Z5 !s108 1431982687.000000
+!s107 G:\Documents\ece-429\memory\memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:\Documents\ece-429\memory\memory.v|
+!s101 -O0
+!i113 1
+R3
+vmips_memory2
+R4
+!i10b 1
+!s100 iONjlFJ9RdI?EB^B[H0dT1
+I[X=aLkEI4>a[n_iO818<02
+R0
+R1
+w1431982295
+8G:/Documents/ece-429/memory/memory2.v
+FG:/Documents/ece-429/memory/memory2.v
+L0 1
+R2
+r1
+!s85 0
+31
+R5
+!s107 G:/Documents/ece-429/memory/memory2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/Documents/ece-429/memory/memory2.v|
+!s101 -O0
+!i113 1
+R3
+vtestbench
+R4
+!i10b 1
+!s100 z8b_MHzR3oT]3c31]hmBL0
+I==FAfzZ:Fm_V:ZmH;Z4KK0
+R0
+R1
+w1431982318
+8G:\Documents\ece-429\memory\testbench.v
+FG:\Documents\ece-429\memory\testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+R5
+!s107 G:\Documents\ece-429\memory\testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:\Documents\ece-429\memory\testbench.v|
+!s101 -O0
+!i113 1
+R3
+vtestbench_16
+R4
+!i10b 1
+!s100 K_1hh=lg_FRha6QY<CNFh3
+I_zgf1^KfB3L5lIiE5dmQW0
+R0
+R1
+w1431982306
+8G:\Documents\ece-429\memory\testbench_16.v
+FG:\Documents\ece-429\memory\testbench_16.v
+L0 1
+R2
+r1
+!s85 0
+31
+R5
+!s107 G:\Documents\ece-429\memory\testbench_16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:\Documents\ece-429\memory\testbench_16.v|
+!s101 -O0
+!i113 1
+R3
+vtestbench_4
+R4
+!i10b 1
+!s100 lWaf>OTBNUOkcOcL=Te<G3
+Ie9J<IhnBFV2M61nK=[^H_2
+R0
+R1
+w1431982314
+8G:\Documents\ece-429\memory\testbench_4.v
+FG:\Documents\ece-429\memory\testbench_4.v
+L0 1
+R2
+r1
+!s85 0
+31
+R5
+!s107 G:\Documents\ece-429\memory\testbench_4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:\Documents\ece-429\memory\testbench_4.v|
+!s101 -O0
+!i113 1
+R3
+vtestbench_8
+R4
+!i10b 1
+!s100 FGcNhiTjF=V_bU:jB:EmV0
+IbUmEAI5T^aNlj:L4<EjKY1
+R0
+R1
+w1431982680
+8G:\Documents\ece-429\memory\testbench_8.v
+FG:\Documents\ece-429\memory\testbench_8.v
+L0 1
+R2
+r1
+!s85 0
+31
+R5
+!s107 G:\Documents\ece-429\memory\testbench_8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:\Documents\ece-429\memory\testbench_8.v|
+!s101 -O0
+!i113 1
+R3
